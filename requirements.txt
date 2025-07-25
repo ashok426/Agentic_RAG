@@ -1,0 +1,33 @@
+# Core Dependencies
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# LangChain Framework
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-community>=0.0.20
+langchain-core>=0.1.0
+langgraph>=0.0.30
+
+# Vector Database
+faiss-cpu>=1.7.0
+
+# Web Search (Optional but Recommended)
+tavily-python>=0.7.0
+
+# Document Processing
+tiktoken>=0.5.0
+
+# HTTP Requests
+requests>=2.25.0
+httpx>=0.24.0
+
+# Optional: Alternative LLM Provider
+langchain-groq
+
+# Development and Jupyter Support (Optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utility Libraries
+typing-extensions>=4.0.0

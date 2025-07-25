@@ -1,0 +1,45 @@
+## Profit/Loss Statement for Portfolio as on  04 Jul 2024
+
+
+From Date
+
+01/APR/2023
+
+To Date
+
+31/MAR/2024
+
+Portfolio
+
+Taxable Portfolio
+
+For Asset Class
+
+Dividend
+
+Account Subtype
+
+Direct Transaction
+
+1. Natco Pharma will pay a dividend of 15 on February 26, 2024.
+2. Fineotex Chem will pay a dividend of 138 on February 26, 2024.
+3. Hero Motocorp will pay a dividend of 225 on February 21, 2024.
+4. Hero Motocorp will pay another dividend of 675 on February 21, 2024.
+5. Apollo Hospitals will pay a dividend of 54 on February 20, 2024.
+6. Sundaram Finance will pay a dividend of 84 on February 16, 2024.
+7. Manappuram Finance will pay a dividend of 16.2 on February 16, 2024.
+8. Gulf Oil Lubricants will pay a dividend of 384 on February 13, 2024.
+9. Symphony will pay a dividend of 2 on February 7, 2024.
+10. Shriram Finance will pay a dividend of 100 on February 6, 2024.
+11. Goa Carbon will pay a dividend of 100 on January 29, 2024.
+12. Natco Pharma paid a dividend of 15 on November 24, 2023.
+13. Manappuram Finance paid a dividend of 15.3 on November 24, 2023.
+14. Shriram Finance paid a dividend of 200 on November 6, 2023.
+15. Symphony paid a dividend of 2 on November 3, 2023.
+16. LTIMindtree paid a dividend of 260 on October 27, 2023.
+17. Infosys paid a dividend of 18 on October 25, 2023.
+18. Dalmia Bharat Ltd paid a dividend of 32 on October 20, 2023.
+19. Multi Commodity Exchange paid a dividend of 152.72 on September 15, 2023.
+20. Dilip Buildcon paid a dividend of 1.3 on September 11, 2023.
+21. Fineotex Chemical paid a dividend of 92 on September 8, 2023.
+The record indicates that on September 1, 2023, APL Apollo Tubes, identified by the code INE702C01027, had a value of 555.
