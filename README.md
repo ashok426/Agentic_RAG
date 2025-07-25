@@ -6,7 +6,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) system built with LangGraph
 
 ## Output
 
-![Combines retrieved documents with web search results to generate the final ouput](notebook/agentic_rag2.png)
+![Combines retrieved documents with web search results to generate the final ouput](notebook/output.png)
 
 ## Features
 
