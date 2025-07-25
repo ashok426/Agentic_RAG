@@ -2,6 +2,8 @@
 
 A sophisticated Retrieval-Augmented Generation (RAG) system built with LangGraph that implements intelligent document relevancy scoring with a 70% threshold mechanism. The system automatically routes between direct answer generation and web search augmentation based on document relevance scores.
 
+![Corrective RAG System](notebook/agentic_rag_image.png)
+
 ## 🎯 Features
 
 ### Core Capabilities
