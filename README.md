@@ -1,19 +1,23 @@
-# 🤖 Enhanced Corrective Agentic RAG System
+#  Enhanced Corrective Agentic RAG System
 
 A sophisticated Retrieval-Augmented Generation (RAG) system built with LangGraph that implements intelligent document relevancy scoring with a 70% threshold mechanism. The system automatically routes between direct answer generation and web search augmentation based on document relevance scores.
 
 ![Corrective RAG System](notebook/agentic_rag_image.png)
 
-## 🎯 Features
+## Output
+
+![Combines retrieved documents with web search results to generate the final ouput](notebook/agentic_rag2.png)
+
+## Features
 
 ### Core Capabilities
-- **🔍 Intelligent Document Retrieval**: Advanced similarity search using FAISS vector database
-- **📊 Smart Relevancy Scoring**: AI-powered document grading with percentage-based scoring
-- **🎛️ Threshold-Based Routing**: 70% relevancy threshold determines workflow path
-- **✍️ Dynamic Query Rewriting**: Intelligent query enhancement for better retrieval
-- **🌐 Web Search Integration**: Tavily API integration for external knowledge
-- **🔄 Multi-Source Information Fusion**: Combines internal knowledge with external web data
-- **📈 Comprehensive Analytics**: Detailed execution statistics and workflow tracking
+- **Intelligent Document Retrieval**: Advanced similarity search using FAISS vector database
+- **Smart Relevancy Scoring**: AI-powered document grading with percentage-based scoring
+- **Threshold-Based Routing**: 70% relevancy threshold determines workflow path
+- **Dynamic Query Rewriting**: Intelligent query enhancement for better retrieval
+- **Web Search Integration**: Tavily API integration for external knowledge
+- **Multi-Source Information Fusion**: Combines internal knowledge with external web data
+- **Comprehensive Analytics**: Detailed execution statistics and workflow tracking
 
 ### Workflow Intelligence
 ```
@@ -21,7 +25,7 @@ If Relevancy ≥ 70%: Retrieve → Grade → Generate (Direct Path)
 If Relevancy < 70%: Retrieve → Grade → Rewrite → Web Search → Generate (Enhanced Path)
 ```
 
-## 🏗️ Architecture
+## Architecture
 
 ### System Components
 
